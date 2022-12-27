@@ -1,0 +1,63 @@
+{
+	"success": true,
+	"data": {
+		"greeting": "hello there",
+		"components": [{
+				"type": "square",
+				"title": "I am Title 1",
+				"subtitle": "I am subtitle 1",
+				"data_url": "https://www.google.com/data1",
+				"cta_text": "Square All",
+				"cta_url": "https://www.google.com/details1"
+			},
+			{
+				"type": "triangle",
+				"title": "I am Title 2",
+				"subtitle": "I am subtitle 2",
+				"data_url": "https://www.google.com/data2",
+				"cta_text": "Triangle All",
+				"cta_url": "https://www.google.com/details2"
+			},
+			{
+				"type": "cross",
+				"title": "I am Title cross",
+				"subtitle": "I am subtitle cross",
+				"data_url": "https://www.google.com/data3",
+				"cta_text": "Cross All",
+				"cta_url": "https://www.google.com/details3"
+			},
+			{
+				"type": "circle",
+				"title": "I am Title 4",
+				"subtitle": "I am subtitle 4",
+				"data_url": "https://www.google.com/data4",
+				"cta_text": "Circle All",
+				"cta_url": "https://www.google.com/details4"
+			},
+			{
+				"type": "banner",
+				"title": "",
+				"subtitle": "",
+				"data_url": "https://www.google.com/data4",
+				"cta_text": "",
+				"cta_url": ""
+			},
+			{
+				"type": "program",
+				"title": "Programs",
+				"subtitle": "",
+				"data_url": "/v1/programs",
+				"cta_text": "",
+				"cta_url": ""
+			},
+			{
+				"type": "list_rect_vertical",
+				"title": "Activity Bundles",
+				"subtitle": "Buy Activity Bundles from Prodigy Coins",
+				"data_url": "api/to/get_activity_bundles",
+				"cta_text": "View All",
+				"cta_url": "deeplink/to/activity_bundles"
+			}
+		]
+	}
+}
